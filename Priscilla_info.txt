@@ -3,7 +3,7 @@ MEMBERS;
 NANSUBUGA PATIENCE
 NAMIIRO PRISCILLA
 UWIRINGIYIMANA ENERSTINE
-KAGAME DAGLOUS 
+KAGAME DAGLOUS  M
 DUSHIIME DANIELS
                      WHAT WE LEARNED???
 We learned how to create a Github repository, clone it, making branches and collaborating using vs code.We are so grateful.
